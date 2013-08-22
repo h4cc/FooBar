@@ -5,7 +5,7 @@
  */
 function aFunction($aParameter)
 {
-  return $aParameter * 10 + 3;
+  return $aParameter * 12 + 2;
 }
 
 var_dump(aFunction(time()));
